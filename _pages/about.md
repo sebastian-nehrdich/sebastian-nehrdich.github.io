@@ -1,17 +1,21 @@
 ---
 permalink: /
-title: "Welcome t"
+title: "Hello!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am working as the CTO of the [MITRA](https://dharmamitra.org) project under the guidance of Kurt Keutzer at BAIR, UC Berkeley. My interests are machine learning, natural language processing, and especially the intersection between Buddhist Studies and NLP applications. 
-Since 2023, I am a PhD student at University of Duesseldorf, Germany. 
+I am currently working as a researcher at BAIR, UC Berkeley. My interests are machine learning and natural language processing with special focus on Asian low-resource languages as well as the intersection between Buddhist Studies and NLP applications. 
+Since 2023, I am a PhD student at University of Duesseldorf, Germany, under the guidance of Oliver Hellwig and Kurt Keutzer. I have completed a bachelor's degree in Indology and Sinology (2017) and a master's degree in Buddhist Studies (2020) at University of Hamburg, Germany. 
+
+
 
 News
 =====
+8/2024: New publication out: Marieke Meelen, Sebastian Nehrdich & Kurt Keutzer, “Breakthroughs in Tibetan NLP & Dig- ital Humanities”, Revue d’Etudes Tibétaines, no. 72, Juillet 2024, pp. 5-25., 2024
+11/2023: New publication out:
 
 Projects
 =====
