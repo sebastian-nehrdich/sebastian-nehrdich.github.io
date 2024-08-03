@@ -8,3 +8,4 @@ venue: 'Revue d'Etudes Tibétaines'
 paperurl: 'http://academicpages.github.io/files/2024-breakthroughs.pdf'
 citation: 'Meelen, M., Nehrdich, S., & Keutzer, K. (2024). &quot;Breakthroughs in Tibetan NLP & Digital Humanities.&quot; <i>Revue d'Etudes Tibétaines</i>. 72, 5-25.'
 ---
+
