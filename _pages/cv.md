@@ -12,41 +12,20 @@ redirect_from:
 Education
 ======
 * 2012-2017: Bachelor of Arts
-  * Indology as major and Sinology as minor,
+  * Indology as major and Sinology as minor
   * University of Hamburg
   * Title: "Two Commentaries on Vasubandhu’s Triṃśikā: A comparative analaysis of Sthiramati’s and Xuanzang’s exegesis"
   * Supervisor: Michael Zimmermann
+
 * 2017-2020: Master of Arts
   * Buddhist Studies
   * University of Hamburg
-  * Title: ""
+  * Title: "The Fourth Chapter of the Madhyāntavibhāgaṭīkā: Critical Edition of the Sanskrit/Tibetan and Partial English Translation"
   * Supervisor: Harunaga Isaacson, Martin Delhey
 * 
 
-Work experience
+Research and work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
+* Since 2018: Chief developer of the [BuddhaNexus](https://buddhanexus.org) platform 
+* 2021-2023: Machine learning infrastructure for "ChronBMM: Bayesian Mixture Models für die Datierung von Textkorpora" at the University of Duesseldorf
+* Since 2023: CTO of the [MITRA](https://dharmamitra.org) project under guidance of Kurt Keutzer at Berkeley AI Research Lab (BAIR), UC Berkeley
