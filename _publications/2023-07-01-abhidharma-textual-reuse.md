@@ -2,7 +2,7 @@
 title: "Observations on the Intertextuality of Selected Abhidharma Texts Preserved in Chinese Translation"
 collection: publications
 permalink: /publication/2023-intertextuality-abhidharma-texts
-excerpt: 'This study applies computer-aided methods to detect textual reuse in Xuanzang's translation corpus and selected Abhidharma texts in Chinese. It presents network graph visualizations and examines reuse patterns, demonstrating alignment with established scholarship and providing a foundation for future detailed studies.'
+excerpt: "This study applies computer-aided methods to detect textual reuse in Xuanzang's translation corpus and selected Abhidharma texts in Chinese. It presents network graph visualizations and examines reuse patterns, demonstrating alignment with established scholarship and providing a foundation for future detailed studies."
 date: 2023-07-01
 venue: "Religions"
 paperurl: "https://doi.org/10.3390/rel14070911"
