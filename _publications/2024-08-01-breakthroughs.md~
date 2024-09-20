@@ -1,0 +1,12 @@
+---
+title: "MITRA-zh: An efficient, open machine translation solution for Buddhist Chinese"
+collection: publications
+permalink: /publication/2023-mitra-zh-buddhist-chinese-translation
+excerpt: 'This paper presents a novel dataset and fine-tuned models for machine translation of Buddhist Classical Chinese, outperforming commercial solutions in efficiency and performance.'
+date: 2023-01-01
+venue: "NLP4DH"
+paperurl: "https://api.semanticscholar.org/CorpusID:267411024"
+citation: "Nehrdich, S., Bingenheimer, M., Brody, J., & Keutzer, K. (2023). &quot;MITRA-zh: An efficient, open machine translation solution for Buddhist Chinese.&quot; <i>NLP4DH</i>."
+---
+
+Buddhist Classical Chinese is a challenging low-resource language that has not yet received much dedicated attention in NLP research. Standard commercial machine translation software performs poorly on this idiom. In order to address this gap, we present a novel dataset of 209,454 bitext pairs for the training and 2.300 manually curated and corrected bitext pairs for the evaluation of machine translation models. We finetune a number of encoder-decoder models on this dataset and compare their performance against commercial models. We show that our best fine-tuned model outperforms the currently available commercial solutions by a considerable margin while being much more cost-efficient and faster in deployment. This is especially important for digital humanities, where large amounts of data need to be processed efficiently for corpus-level operations such as topic modeling or semantic search. We also show that the commercial chat system GPT4 is surprisingly strong on this task, at times reaching comparable performance to our finetuned model and clearly outperforming standard machine translation providers. We provide a limited case study where we examine the performance of selected different machine translation models on a number of Buddhist Chinese passages in order to demonstrate what level of quality these models reach at the moment.
