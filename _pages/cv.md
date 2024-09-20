@@ -34,6 +34,6 @@ Education
 Research and work experience
 ======
 * Since 2023: CTO of the [MITRA](https://dharmamitra.org) project under guidance of Kurt Keutzer at Berkeley AI Research Lab (BAIR), UC Berkeley
-* 2021-2023: Machine learning infrastructure for "ChronBMM: Bayesian Mixture Models für die Datierung von Textkorpora" at the University of Duesseldorf
+* 2021-2023: Machine learning infrastructure for the project "ChronBMM: Bayesian Mixture Models für die Datierung von Textkorpora" at the University of Duesseldorf
 * Since 2018: Chief developer of the [BuddhaNexus](https://buddhanexus.org) platform 
 
