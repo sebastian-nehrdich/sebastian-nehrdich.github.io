@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Dharmamitra.org AI application for classical Asian Languages"
+excerpt: "Dharmamitra is a website that provides state-of-the-art machine translation and semantic search functionality for the classical Asian languages Sanskrit, Pali, Tibetan, and Chinese.<br/> <img src='/images/dharmamitra.png'>"
 collection: portfolio
 ---
 
