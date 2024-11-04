@@ -17,6 +17,7 @@ Since 2018, I am working on the NLP technology and database system of the [Buddh
 
 News
 =====
+- 11/2024: Upcoming public online talk: I will present the Dharmamitra project as part of the "Manuscriptology and digital humanities online lecture series" at Heidelberg University on Friday, Nov 22th, 9am CET. [Click here](https://www.sai.uni-heidelberg.de/en/events-at-sai/dharmamitra-2024-11-22) for the Zoom link and further details.  
 - 9/2024: New publication out: Nehrdich, S., Hellwig, O., & Keutzer, K. (2024). "One Model is All You Need: ByT5-Sanskrit, a Unified Model for Sanskrit NLP Tasks." In <i>Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (Findings)</i>.  
 - 8/2024: New publication out: Meelen, Marieke, Sebastian Nehrdich and Kurt Keutzer, “Breakthroughs in Tibetan NLP & Digital Humanities”, Revue d’Etudes Tibétaines, no. 72, Juillet 2024, pp. 5-25.    
 - 11/2023: New publication out: Nehrdich, Sebastian, Marcus Bingenheimer, Justin Brody and Kurt Keutzer. “MITRA-zh: An efficient, open machine translation solution for Buddhist Chinese.” NLP4DH (2023).  
