@@ -17,6 +17,7 @@ Since 2018, I am working on the NLP technology and database system of the [Buddh
 
 News
 =====
+- 03/09/2025: New paper accepted at NLP4DH 2025 (proceedings will follow soon): "MITRA-zh-eval: Using a Buddhist Chinese Language Evaluation Dataset to Assess Machine Translation and Evaluation Metrics"
 - 03/14/2025: Together with Xiang Wei and Marcus Bingenheimer, I will be conducting the workshop "Machine Translation for Asian Studies" at the AAS 2025 in Columbus, Ohio: [click here](https://asianstudies.confex.com/asianstudies/2025/meetingapp.cgi/Session/8470)
 - 03/13/2025: I will present our work on MITRAsearch, an advanced new information retrieval system for Classical Asian Languages, at the CEAL Technology Forum in Ohio, Columbus. 
 - 12/2024: Talk at the International Symposium on Buddhist Studies and Digital Humanities at the University of Tokyo: "MITRA Search: Exploring Buddhist Literature Preserved in Classical Asian Languages with Multilingual Approximate Search" on December 22nd, 2024, at Ito International Research Center. The symposium commemorates 100 Years of the Taishō Tripiṭaka and 30 Years of SAT.
