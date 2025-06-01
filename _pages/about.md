@@ -9,6 +9,7 @@ redirect_from:
 
 I am working as a researcher at BAIR, UC Berkeley. My interests are machine learning and natural language processing with special focus on Asian low-resource languages as well as the intersection between Buddhist Studies and NLP applications. Since 2023, I am a PhD student in computational linguistics at University of Duesseldorf, Germany, under the guidance of Oliver Hellwig and Kurt Keutzer. I have completed a bachelor's degree in Indology and Sinology (2017) and a master's degree in Buddhist Studies (2020) at University of Hamburg, Germany. 
 
+[Download my CV](/files/cv-2025-june.pdf)
 
 Projects
 =====
@@ -17,15 +18,17 @@ Since 2018, I am working on the NLP technology and database system of the [Buddh
 
 News
 =====
+- Coming up June 13th, 2025: I will be giving two lectures at the International DH Workshop at Keio University, Tokyo: "From Sthiramati to Dharmamitra: Developing Digital Tools for a New Age of Philological Buddhist Studies" and "Practical Application of the Various MITRA Tools for Philological Research". The workshop will be held in hybrid format with simultaneous interpretation. [Click here](https://sites.google.com/view/dhws2025b/) for more information.
 - Coming up Aug 10-15th 2025: I will be presenting on the panel "Machine Translation, Large Language Models, and Buddhist Studies" at the XXth Congress of the IABS, Leipzig, Aug. 10-15, 2025. The title of my talk will be "MITRA: New Research Tools for a Paradigm shift in the Philological Study of Buddhist Texts based on Machine Translation Technology".
+- 05/31/2025: I have submitted my PhD thesis in Computational Linguistics at the University of Duesseldorf. The defense is scheduled for September 2025.
 - 03/14/2025: Together with Xiang Wei and Marcus Bingenheimer, I will be conducting the workshop "Machine Translation for Asian Studies" at the AAS 2025 in Columbus, Ohio: [click here](https://asianstudies.confex.com/asianstudies/2025/meetingapp.cgi/Session/8470)
 - 03/13/2025: I will present our work on MITRAsearch, an advanced new information retrieval system for Classical Asian Languages, at the CEAL Technology Forum in Ohio, Columbus. 
 - 03/09/2025: New paper accepted at NLP4DH 2025 (proceedings will follow soon): "MITRA-zh-eval: Using a Buddhist Chinese Language Evaluation Dataset to Assess Machine Translation and Evaluation Metrics"
 - 12/2024: Talk at the International Symposium on Buddhist Studies and Digital Humanities at the University of Tokyo: "MITRA Search: Exploring Buddhist Literature Preserved in Classical Asian Languages with Multilingual Approximate Search" on December 22nd, 2024, at Ito International Research Center. The symposium commemorates 100 Years of the Taishō Tripiṭaka and 30 Years of SAT.
 - 11/2024: Upcoming public online talk: I will present the Dharmamitra project as part of the "Manuscriptology and digital humanities online lecture series" at Heidelberg University on Friday, Nov 22th, 9am CET. [Click here](https://www.sai.uni-heidelberg.de/en/events-at-sai/dharmamitra-2024-11-22) for the Zoom link and further details.  
 - 9/2024: New publication out: Nehrdich, S., Hellwig, O., & Keutzer, K. (2024). "One Model is All You Need: ByT5-Sanskrit, a Unified Model for Sanskrit NLP Tasks." In <i>Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (Findings)</i>.  
-- 8/2024: New publication out: Meelen, Marieke, Sebastian Nehrdich and Kurt Keutzer, “Breakthroughs in Tibetan NLP & Digital Humanities”, Revue d’Etudes Tibétaines, no. 72, Juillet 2024, pp. 5-25.    
-- 11/2023: New publication out: Nehrdich, Sebastian, Marcus Bingenheimer, Justin Brody and Kurt Keutzer. “MITRA-zh: An efficient, open machine translation solution for Buddhist Chinese.” NLP4DH (2023).  
+- 8/2024: New publication out: Meelen, Marieke, Sebastian Nehrdich and Kurt Keutzer, "Breakthroughs in Tibetan NLP & Digital Humanities", Revue d'Etudes Tibétaines, no. 72, Juillet 2024, pp. 5-25.    
+- 11/2023: New publication out: Nehrdich, Sebastian, Marcus Bingenheimer, Justin Brody and Kurt Keutzer. "MITRA-zh: An efficient, open machine translation solution for Buddhist Chinese." NLP4DH (2023).  
 
 
 

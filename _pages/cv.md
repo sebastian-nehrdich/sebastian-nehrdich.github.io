@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download complete CV (PDF)](/files/cv-2025-june.pdf)
+
 Education
 ======
 * Since 2023: PhD
@@ -26,7 +28,7 @@ Education
 * 2012-2017: Bachelor of Arts
   * Indology as major and Sinology as minor
   * University of Hamburg
-  * Title: "Two Commentaries on Vasubandhu’s Triṃśikā: A comparative analaysis of Sthiramati’s and Xuanzang’s exegesis"
+  * Title: "Two Commentaries on Vasubandhu's Triṃśikā: A comparative analaysis of Sthiramati's and Xuanzang's exegesis"
   * Supervisor: Michael Zimmermann
 
 
