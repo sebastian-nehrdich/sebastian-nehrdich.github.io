@@ -18,7 +18,7 @@ Since 2018, I am working on the NLP technology and database system of the [Buddh
 
 News
 =====
-- 06/03/2025: I have accepted a tenure-track assistant professor position at the Center for Integrated Japanese Studies, Tohoku University, starting October 1st, 2025, focusing on the intersection of Buddhist and Japanese Studies with machine learning and digital humanities.
+- 06/03/2025: I have accepted a tenure-track Assistant Professor position at the **Center for Integrated Japanese Studies, Tohoku University**, starting October 2025, focusing on the intersection of Buddhist and Japanese Studies with machine learning and digital humanities.
 - Coming up June 13th, 2025: I will be giving two lectures at the International DH Workshop at Keio University, Tokyo: "From Sthiramati to Dharmamitra: Developing Digital Tools for a New Age of Philological Buddhist Studies" and "Practical Application of the Various MITRA Tools for Philological Research". The workshop will be held in hybrid format with simultaneous interpretation. [Click here](https://sites.google.com/view/dhws2025b/) for more information.
 - Coming up Aug 10-15th 2025: I will be presenting on the panel "Machine Translation, Large Language Models, and Buddhist Studies" at the XXth Congress of the IABS, Leipzig, Aug. 10-15, 2025. The title of my talk will be "MITRA: New Research Tools for a Paradigm shift in the Philological Study of Buddhist Texts based on Machine Translation Technology".
 - 05/31/2025: I have submitted my PhD thesis in Computational Linguistics at the University of Duesseldorf. The defense is scheduled for September 2025.
