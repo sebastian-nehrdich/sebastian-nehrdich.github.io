@@ -2,7 +2,7 @@
 permalink: /
 title: "About"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -18,18 +18,19 @@ Since 2018, I am working on the NLP technology and database system of the [Buddh
 
 News
 =====
-- 06/03/2025: I have accepted a tenure-track Assistant Professor position at the **Center for Integrated Japanese Studies, Tohoku University**, starting October 2025, focusing on the intersection of Buddhist and Japanese Studies with machine learning and digital humanities.
-- Coming up June 13th, 2025: I will be giving two lectures at the International DH Workshop at Keio University, Tokyo: "From Sthiramati to Dharmamitra: Developing Digital Tools for a New Age of Philological Buddhist Studies" and "Practical Application of the Various MITRA Tools for Philological Research". The workshop will be held in hybrid format with simultaneous interpretation. [Click here](https://sites.google.com/view/dhws2025b/) for more information.
 - Coming up Aug 10-15th 2025: I will be presenting on the panel "Machine Translation, Large Language Models, and Buddhist Studies" at the XXth Congress of the IABS, Leipzig, Aug. 10-15, 2025. The title of my talk will be "MITRA: New Research Tools for a Paradigm shift in the Philological Study of Buddhist Texts based on Machine Translation Technology".
+- 06/20/2025: I gave a talk at the online workshop "Navigating Indra’s Net: Digital Approaches to Text Reuse-based Inter-textuality in Pre-Modern East Asian Texts" at the Hanmun Lab, Ruhr-Universität Bochum. The title was: "Is training deep neural embeddings worth the effort? A preliminary investigation of different representation methods for semantic similarity tasks in Buddhist Chinese and related languages of the Buddhist tradition". [More information here](https://www.oaw.ruhr-uni-bochum.de/forschung/hanmun_lab/worhshops/index.html.en)
+- 06/13/2025: I gave two lectures at the International DH Workshop at Keio University, Tokyo: "From Sthiramati to Dharmamitra: Developing Digital Tools for a New Age of Philological Buddhist Studies" and "Practical Application of the Various MITRA Tools for Philological Research". The workshop was held in hybrid format with simultaneous interpretation. [Click here](https://sites.google.com/view/dhws2025b/) for more information.
+- 06/03/2025: I have accepted a tenure-track Assistant Professor position at the **Center for Integrated Japanese Studies, Tohoku University**, starting October 2025, focusing on the intersection of Buddhist and Japanese Studies with machine learning and digital humanities.
 - 05/31/2025: I have submitted my PhD thesis in Computational Linguistics at the University of Duesseldorf. The defense is scheduled for September 2025.
 - 03/14/2025: Together with Xiang Wei and Marcus Bingenheimer, I will be conducting the workshop "Machine Translation for Asian Studies" at the AAS 2025 in Columbus, Ohio: [click here](https://asianstudies.confex.com/asianstudies/2025/meetingapp.cgi/Session/8470)
-- 03/13/2025: I will present our work on MITRAsearch, an advanced new information retrieval system for Classical Asian Languages, at the CEAL Technology Forum in Ohio, Columbus. 
+- 03/13/2025: I will present our work on MITRAsearch, an advanced new information retrieval system for Classical Asian Languages, at the CEAL Technology Forum in Ohio, Columbus.
 - 03/09/2025: New paper accepted at NLP4DH 2025 (proceedings will follow soon): "MITRA-zh-eval: Using a Buddhist Chinese Language Evaluation Dataset to Assess Machine Translation and Evaluation Metrics"
 - 12/2024: Talk at the International Symposium on Buddhist Studies and Digital Humanities at the University of Tokyo: "MITRA Search: Exploring Buddhist Literature Preserved in Classical Asian Languages with Multilingual Approximate Search" on December 22nd, 2024, at Ito International Research Center. The symposium commemorates 100 Years of the Taishō Tripiṭaka and 30 Years of SAT.
-- 11/2024: Upcoming public online talk: I will present the Dharmamitra project as part of the "Manuscriptology and digital humanities online lecture series" at Heidelberg University on Friday, Nov 22th, 9am CET. [Click here](https://www.sai.uni-heidelberg.de/en/events-at-sai/dharmamitra-2024-11-22) for the Zoom link and further details.  
-- 9/2024: New publication out: Nehrdich, S., Hellwig, O., & Keutzer, K. (2024). "One Model is All You Need: ByT5-Sanskrit, a Unified Model for Sanskrit NLP Tasks." In <i>Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (Findings)</i>.  
-- 8/2024: New publication out: Meelen, Marieke, Sebastian Nehrdich and Kurt Keutzer, "Breakthroughs in Tibetan NLP & Digital Humanities", Revue d'Etudes Tibétaines, no. 72, Juillet 2024, pp. 5-25.    
-- 11/2023: New publication out: Nehrdich, Sebastian, Marcus Bingenheimer, Justin Brody and Kurt Keutzer. "MITRA-zh: An efficient, open machine translation solution for Buddhist Chinese." NLP4DH (2023).  
+- 11/2024: Upcoming public online talk: I will present the Dharmamitra project as part of the "Manuscriptology and digital humanities online lecture series" at Heidelberg University on Friday, Nov 22th, 9am CET. [Click here](https://www.sai.uni-heidelberg.de/en/events-at-sai/dharmamitra-2024-11-22) for the Zoom link and further details.
+- 9/2024: New publication out: Nehrdich, S., Hellwig, O., & Keutzer, K. (2024). "One Model is All You Need: ByT5-Sanskrit, a Unified Model for Sanskrit NLP Tasks." In <i>Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (Findings)</i>.
+- 8/2024: New publication out: Meelen, Marieke, Sebastian Nehrdich and Kurt Keutzer, "Breakthroughs in Tibetan NLP & Digital Humanities", Revue d'Etudes Tibétaines, no. 72, Juillet 2024, pp. 5-25.
+- 11/2023: New publication out: Nehrdich, Sebastian, Marcus Bingenheimer, Justin Brody and Kurt Keutzer. "MITRA-zh: An efficient, open machine translation solution for Buddhist Chinese." NLP4DH (2023).
 
 
 
