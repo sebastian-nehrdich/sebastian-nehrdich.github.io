@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Since 2023: PhD
+* Sep 2025: PhD
   * Computer Linguistics
   * University of Duesseldorf
   * Supervisor: Oliver Hellwig, Kurt Keutzer
