@@ -14,7 +14,7 @@ I am a Distinguished Assistant Professor working on Natural Language Processing 
 Projects
 =====
 Since 2023, I am part of the [MITRA](https://dharmamitra.org) project, first as CTO and now as director in collaboration with Kurt Keutzer at Berkeley AI Research Lab (BAIR), UC Berkeley. In this project, we develop machine translation models as well as semantic search functionality, parallel passage detection, and OCR for Classical Asian languages.  
-Since 2018, I am working on the NLP technology and database system of the [BuddhaNexus](https://buddhanexus.net) platform for the research of intertextual links within Buddhist sources, which is now continued as [DharmaNexus](https://dharmanexus.net).  
+Since 2018, I am working on the NLP technology and database system of the [BuddhaNexus](https://buddhanexus.net) platform for the research of intertextual links within Buddhist sources, which is now continued as [DharmaNexus](https://dharmanexus.org).  
 
 News
 =====
