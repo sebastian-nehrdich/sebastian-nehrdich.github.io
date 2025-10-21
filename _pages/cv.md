@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* Since 2023: PhD
+* Sep 2025: PhD
   * Computer Linguistics
   * University of Duesseldorf
   * Supervisor: Oliver Hellwig, Kurt Keutzer
@@ -28,14 +28,15 @@ Education
 * 2012-2017: Bachelor of Arts
   * Indology as major and Sinology as minor
   * University of Hamburg
-  * Title: "Two Commentaries on Vasubandhu's Triṃśikā: A comparative analaysis of Sthiramati's and Xuanzang's exegesis"
+  * Title: "Two Commentaries on Vasubandhu’s Triṃśikā: A comparative analaysis of Sthiramati’s and Xuanzang’s exegesis"
   * Supervisor: Michael Zimmermann
 
 
 
 Research and work experience
 ======
+* Since 2025: Director of [MITRA](https://dharmamitra.org) 
 * Since 2023: CTO of the [MITRA](https://dharmamitra.org) project under guidance of Kurt Keutzer at Berkeley AI Research Lab (BAIR), UC Berkeley
-* 2021-2023: Machine learning infrastructure for the project "ChronBMM: Bayesian Mixture Models für die Datierung von Textkorpora" at the University of Duesseldorf
-* 2018-2023: Chief developer of the [BuddhaNexus](https://buddhanexus.org) platform 
+* 2021-2023: Machine learning infrastructure for "ChronBMM: Bayesian Mixture Models für die Datierung von Textkorpora" at the University of Duesseldorf
+* 2018-2023: Chief developer of the [BuddhaNexus](https://buddhanexus.org) platform, now continued as [DharmaNexus](https://dharmanexus.org)
 

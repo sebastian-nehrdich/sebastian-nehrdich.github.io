@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am working as a researcher at BAIR, UC Berkeley. My interests are machine learning and natural language processing with special focus on Asian low-resource languages as well as the intersection between Buddhist Studies and NLP applications. Since 2023, I am a PhD student in computational linguistics at University of Duesseldorf, Germany, under the guidance of Oliver Hellwig and Kurt Keutzer. I have completed a bachelor's degree in Indology and Sinology (2017) and a master's degree in Buddhist Studies (2020) at University of Hamburg, Germany. 
+I am a distinguished assistant professor for natural language processing and digital humanities at the Center for Integrated Japanese Studies, Tohoku University. My interests are machine learning and natural language processing with special focus on Asian low-resource languages as well as the intersection between Buddhist Studies and NLP applications. In 2025, I completed my PhD in computational linguistics at University of Duesseldorf, under the guidance of Oliver Hellwig and Kurt Keutzer. I have completed a bachelor's degree in Indology and Sinology (2017) and a master's degree in Buddhist Studies (2020) at University of Hamburg. 
 
 [Download my CV](/files/cv-2025-june.pdf)
 
 Projects
 =====
-Since 2023, I am part of the [MITRA](https://dharmamitra.org) project as CTO under the guidance of Kurt Keutzer at Berkeley AI Research Lab (BAIR), UC Berkeley. In this project, we develop machine translation models as well as semantic search functionality for Classical Asian languages.  
-Since 2018, I am working on the NLP technology and database system of the [BuddhaNexus](https://buddhanexus.net) platform for the research of intertextual links within Buddhist sources.  
+Since 2023, I am part of the [MITRA](https://dharmamitra.org) project, first as CTO and now as director in collaboration with Kurt Keutzer at Berkeley AI Research Lab (BAIR), UC Berkeley. In this project, we develop machine translation models as well as semantic search functionality, parallel passage detection, and OCR for Classical Asian languages.  
+Since 2018, I am working on the NLP technology and database system of the [BuddhaNexus](https://buddhanexus.net) platform for the research of intertextual links within Buddhist sources, which is now continued as [DharmaNexus](https://dharmanexus.net).  
 
 News
 =====
