@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Distinguished Assistant Professor working on Natural Language Processing and Digital Humanities at the Center for Integrated Japanese Studies, Tohoku University. My interests are machine learning and natural language processing with special focus on Asian low-resource languages as well as the intersection between Buddhist Studies and NLP applications. In 2025, I completed my PhD in computational linguistics at University of Duesseldorf, under the guidance of Oliver Hellwig and Kurt Keutzer. I have completed a bachelor's degree in Indology and Sinology (2017) and a master's degree in Buddhist Studies (2020) at University of Hamburg. 
 
-[Download my CV](/files/cv-2025-june.pdf)
+[Download my CV](/files/cv-2025-oct.pdf)
 
 Projects
 =====
