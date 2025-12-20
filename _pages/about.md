@@ -19,6 +19,7 @@ Since 2018, I am working on the NLP technology and database system of the [Buddh
 News
 =====
 
+- Dec 11, 2025: Our team was selected for a 2025 Humanities and AI Virtual Institute (HAVI) award from Schmidt Sciences for the project "Connectivity and Individuality in Textual Traditions: Augmenting Retrieval for Eurasian Languages". The project will build domain-aware retrieval and RAG methods for historical documents across eight under-served languages, including Buddhist canons in Sanskrit, Chinese, and Tibetan. [More information here](https://www.schmidtsciences.org/havi-2025-announcement/).
 - Dec 3-4, 2025: I presented at the workshop and symposium "Building the Foundations of Buddhist Philology through Digital Humanities: Exploring the Potential of the Tohoku University Digital Archives (ToUDA)" at the Center for Integrated Japanese Studies, Tohoku University. [More information here](https://cijs.oii.tohoku.ac.jp/en/news/detail---id-95.html).
 - Nov 2025: I joined the Board of Directors of the Buddhist Digital Resource Center (BDRC). [Link](https://www.bdrc.io/people/board-of-directors/).
 - Nov 25, 2025: I gave the talk titled "From OCR via Machine Translation to Semantic Search: The Dharmamitra AI stack for Multilingual Buddhist Philology" at the Seoul National University AI Digital Humanities Center Overseas Researcher Invitation Forum. [Mentioned in KADH news](https://www.kadh.org/talk-from-ocr-via-machine-translation-to-semantic-search/).
