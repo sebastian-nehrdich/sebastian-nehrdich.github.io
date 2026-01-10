@@ -19,7 +19,7 @@ Since 2018, I am working on the NLP technology and database system of the [Buddh
 News
 =====
 
-- 2025: My dissertation was selected for the Best Dissertation of the Year 2025 award (Beste Dissertation des Jahres 2025) by the Faculty Council of the Philosophical Faculty at the University of Duesseldorf. 
+- 2025: My dissertation was selected for the Best Dissertation of the Year 2025 award (Beste Dissertation des Jahres 2025) by the Faculty of Arts and Humanities at the University of Duesseldorf. 
 - Dec 25, 2025: I was featured in the Kahoku Shimpo (河北新報) newspaper article "AIで仏教研究に新風" (A New Breeze in Buddhist Studies with AI), which covered my work on the Dharmamitra platform and my appointment as a Distinguished Assistant Professor at Tohoku University through the International Distinguished Researcher Track system. [Article here](https://kahoku.news/articles/20251224khn000048.html).
 - Dec 21, 2025: I presented "Translation, OCR, and Semantic Retrieval: Current Status and Future Outlook of the Dharmamitra Ecosystem" at the Buddhist Studies and Digital Humanities International Symposium (仏教学とデジタル・ヒューマニティーズ国際シンポジウム) in Tokyo. [More information here](https://buddhist-dh-sympo2025.dhii.jp/).
 - Dec 21, 2025: I presented "Dharmamitra: A Platform that Makes Translation and Discovery of Buddhist Texts Possible Across Language Barriers" as part of the panel "AI in the Fo Guang Dictionary of Buddhism English Translation Project and MITRA" at the 11th Symposium of Humanistic Buddhism. [More information here](https://www.merit-times.com/news/493872).
